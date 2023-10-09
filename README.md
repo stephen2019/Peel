@@ -1,3 +1,3 @@
 # Peel
-Peel is a free SSH software.
+Peel is a free virtual terminal software.
 ![Peel](Peel.png)
